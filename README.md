@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shu LI</h1>
-<h3 align="center">PhD in CS</h3>
 
 <p align="left"> <a href="https://twitter.com/shuligraph" target="blank"><img src="https://img.shields.io/twitter/follow/shuligraph?logo=twitter&style=for-the-badge" alt="shuligraph" /></a> </p>
 
 - 🔭 I’m currently working on [Argo](https://www.di.ens.fr/argo/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shuligraph](https://github.com/shuligraph)
+- 👨‍💻 All of my projects are available at [Git](https://github.com/shuligraph)
 
-- 📝 I regularly write articles on [https://orcid.org/0000-0002-4075-9885](https://orcid.org/0000-0002-4075-9885)
+- 📝 I regularly write articles on [ORCID](https://orcid.org/0000-0002-4075-9885)
 
 - 💬 Ask me about **https://shuligraph.github.io/**
 
 - 📫 How to reach me **shu.li@inria.fr**
 
-- 📄 Know about my experiences [https://shuligraph.github.io/](https://shuligraph.github.io/)
+- 📄 Know about my experiences [shuligraph.github.io](https://shuligraph.github.io/)
 
 - ⚡ Fun fact **I think I am funny.**
 
